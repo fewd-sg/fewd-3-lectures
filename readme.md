@@ -8,3 +8,5 @@ below:
 1. [Git Intro](https://fewd-sg.github.io/lectures/3-git-intro)
 1. [Week 1 Review](https://fewd-sg.github.io/lectures/4-week-1-review/)
 1. [More CSS](https://fewd-sg.github.io/lectures/5-more-css/)
+1. [CSS Layouts](https://fewd-sg.github.io/lectures/6-css-layouts/)
+1. [Let's Get Responsive](https://fewd-sg.github.io/lectures/7-responsive/)
