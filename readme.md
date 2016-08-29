@@ -10,3 +10,4 @@ below:
 1. [More CSS](https://fewd-sg.github.io/lectures/5-more-css/)
 1. [CSS Layouts](https://fewd-sg.github.io/lectures/6-css-layouts/)
 1. [Let's Get Responsive](https://fewd-sg.github.io/lectures/7-responsive/)
+1. [CSS Position and Transition](https://fewd-sg.github.io/lectures/8-position-transition/)
