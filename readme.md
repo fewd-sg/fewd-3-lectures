@@ -13,3 +13,4 @@ below:
 1. [CSS Position and Transition](https://fewd-sg.github.io/lectures/8-position-transition/)
 1. [Intro to Programming](https://fewd-sg.github.io/lectures/9-intro-to-programming/)
 1. [Intro to JavaScript](https://fewd-sg.github.io/lectures/10-intro-to-javascript/)
+1. [More Javascript](https://fewd-sg.github.io/lectures/11-more-javascript/)
