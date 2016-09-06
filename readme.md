@@ -1,7 +1,7 @@
 # Lectures
 
-These are lecture slides. They can be viewed online by clicking the links
-below:
+These are the slides shown in class for the lessons. They can be viewed online
+or downloaded by clicking the links below:
 
 1. HTML Basics ([web][1-web] | [pdf][1-pdf])
 2. CSS Basics ([web][2-web] | [pdf][2-pdf])
