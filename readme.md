@@ -16,6 +16,7 @@ or downloaded by clicking the links below:
 11. More JavaScript ([web][11-web] | [pdf][11-pdf])
 12. Functions ([web][12-web] | [pdf][12-pdf])
 13. Review and Refactor ([web][13-web] | [pdf][13-pdf])
+14. jQuery ([web][14-web] | [pdf][14-pdf])
 
 [1-web]: https://fewd-sg.github.io/lectures/1-html-basics/
 [1-pdf]: https://github.com/fewd-sg/lectures/releases/download/1/1-html-basics.pdf
@@ -43,3 +44,5 @@ or downloaded by clicking the links below:
 [12-pdf]: https://github.com/fewd-sg/lectures/releases/download/12/12-functions.pdf
 [13-web]: https://fewd-sg.github.io/lectures/13-refactoring/
 [13-pdf]: https://github.com/fewd-sg/lectures/releases/download/13/13-refactoring.pdf
+[14-web]: https://fewd-sg.github.io/lectures/14-jquery/
+[14-pdf]: https://github.com/fewd-sg/lectures/releases/download/14/14-jquery.pdf
