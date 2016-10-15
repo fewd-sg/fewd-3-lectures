@@ -18,7 +18,8 @@ or downloaded by clicking the links below:
 13. Review and Refactor ([web][13-web] | [pdf][13-pdf])
 14. jQuery ([web][14-web] | [pdf][14-pdf])
 15. Scope, Arrays, and this ([web][15-web] | [pdf][15-pdf])
-15. Forms ([web][16-web] | [pdf][16-pdf])
+16. Forms ([web][16-web] | [pdf][16-pdf])
+17. Last lesson ([web][17-web] | [pdf][17-pdf])
 
 [1-web]: https://fewd-sg.github.io/lectures/1-html-basics/
 [1-pdf]: https://github.com/fewd-sg/lectures/releases/download/1/1-html-basics.pdf
@@ -52,3 +53,5 @@ or downloaded by clicking the links below:
 [15-pdf]: https://github.com/fewd-sg/lectures/releases/download/15/15-scope-and-arrays.pdf
 [16-web]: https://fewd-sg.github.io/lectures/16-forms/
 [16-pdf]: https://github.com/fewd-sg/lectures/releases/download/16/16-forms.pdf
+[17-web]: https://fewd-sg.github.io/lectures/17-last-lesson/
+[17-pdf]: https://github.com/fewd-sg/lectures/releases/download/17/17-last-lesson.pdf
